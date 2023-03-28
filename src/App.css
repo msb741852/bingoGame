@@ -26,6 +26,7 @@ td {
   height: 10vw;
   font-size: 3rem;
   text-align: center;
+  vertical-align: middle;
 }
 
 /* general-layout */
@@ -88,10 +89,14 @@ td {
 /* bingoBoard */
 .bingoBoard-box {
   width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .bingoBoard-box .event-box {
   margin-top: 10px;
+  width: 100%;
   display: flex;
   justify-content: space-between;
 }

@@ -41,6 +41,7 @@ const BingoBoard = () => {
 
   return (
     <div className="bingoBoard-box">
+      <h1>원하는 색을 선택 후 빙고판을 눌러주세요!</h1>
       <table>
         {bingoArr.map((bingoData: any) => {
           return bingoData.content > bingoSize &&
