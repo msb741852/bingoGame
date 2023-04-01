@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bingoGame/static/css/main.c59cac49.css",
-    "main.js": "/bingoGame/static/js/main.3a38f21d.js",
+    "main.js": "/bingoGame/static/js/main.e8f2515c.js",
     "index.html": "/bingoGame/index.html",
     "main.c59cac49.css.map": "/bingoGame/static/css/main.c59cac49.css.map",
-    "main.3a38f21d.js.map": "/bingoGame/static/js/main.3a38f21d.js.map"
+    "main.e8f2515c.js.map": "/bingoGame/static/js/main.e8f2515c.js.map"
   },
   "entrypoints": [
     "static/css/main.c59cac49.css",
-    "static/js/main.3a38f21d.js"
+    "static/js/main.e8f2515c.js"
   ]
 }
